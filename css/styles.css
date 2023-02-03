@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    font-family: 'Karla', sans-serif;
+    color: white;
+}
+
+.block {
+    margin: 40px 150px;
+    background-color: #1F2937;
+    width: 75%;
+    height: 550px;
+}
+
+h1 {
+    padding: 50px 50px 0px 50px;
+    font-size: 50px;
+}
+
+#small-text {
+    color: #4ADF86;
+}
+
+#tagline {
+    padding-left: 50px;
+}
+
+#generate {
+    margin-top: 20px;
+    background-color: #10B981;
+    margin-left: 50px;
+    width: 191px;
+    height: 42px;
+    left: 52px;
+    top: 284px;
+    border-radius: 10px;
+    box-shadow: none;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+hr {
+    margin: 37px;
+}
+
+#pass2 {
+    margin-left: 20px;
+}
+
+.password-box {
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 50px;
+    background-color: #273549;
+    width: 211px;
+    height: 39px;
+    left: 52px;
+    top: 396px;
+}
